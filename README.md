@@ -1,6 +1,6 @@
 # Hello, I'm Oscar Molnar 👋
 
-I am a Visualisation Engineer working for Jaguar Land Rover in Coventry UK 🇬🇧
+I am a Javascript Developer working for Brandwatch remotely from Coventry UK 🇬🇧. Previously I was a Visualisation Engineer for Jaguar Land Rover.
 
 I love writing code, configuring \*nix computers, playing video games and taking photos
 
