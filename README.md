@@ -9,7 +9,7 @@ I'm fascinated with everything science related so if you want to geek out, get i
 
 ### 📬 Get in Touch
 
-- Discord: Tymscar#8086
+- Discord: [Tymscar#8086][discord]
 - Reddit: [tymscar][reddit]
 - YouTube: [tymscar][youtube]
 - Twitter: [tymscar][twitter]
@@ -22,10 +22,11 @@ I'm fascinated with everything science related so if you want to geek out, get i
 
 
 
-[facebook]: https://www.facebook.com/tymscar
+[discord]: https://discord.com/users/120366450199363587
 [reddit]: https://www.reddit.com/user/tymscar/
 [youtube]: https://www.youtube.com/tymscar
 [twitter]: https://twitter.com/Tymscar
+[facebook]: https://www.facebook.com/tymscar
 [linkedin]: https://www.linkedin.com/in/tymscar/
 [site]: https://tymscar.com
 
