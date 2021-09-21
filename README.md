@@ -1,7 +1,11 @@
 # Hello, I'm Oscar Molnar 👋
 
 I am a Javascript Developer working for Brandwatch remotely from Coventry UK 🇬🇧.
+
+
 I also teach C++ programming for games as a visiting lecturer at Birmingham City University.
+
+
 Previously I was a Visualisation Engineer for Jaguar Land Rover.
 
 I love writing code, configuring \*nix computers, playing video games and taking photos
