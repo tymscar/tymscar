@@ -8,9 +8,9 @@ I also teach C++ programming for games as a visiting lecturer at Birmingham City
 
 Previously I was a Visualisation Engineer for Jaguar Land Rover.
 
-I love writing code, configuring \*nix computers, playing video games and taking photos
+I love writing code, configuring \*nix computers, playing video games and taking photos.
 
-I'm fascinated with everything science related so if you want to geek out, get in touch with me 💻
+I'm fascinated with everything science related so if you want to geek out, get in touch with me 💻.
 
 
 ### 📬 Get in Touch
