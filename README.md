@@ -17,6 +17,7 @@ I'm fascinated with everything science related so if you want to geek out, get i
 
 - Discord: [Tymscar#8086][discord]
 - Reddit: [tymscar][reddit]
+- Google dev: [Tymscar][gdev]
 - YouTube: [tymscar][youtube]
 - Twitter: [tymscar][twitter]
 - Facebook: [tymscar][facebook]
@@ -30,6 +31,7 @@ I'm fascinated with everything science related so if you want to geek out, get i
 
 [discord]: https://discord.com/users/120366450199363587
 [reddit]: https://www.reddit.com/user/tymscar/
+[gdev]: https://g.dev/tymscar
 [youtube]: https://www.youtube.com/tymscar
 [twitter]: https://twitter.com/Tymscar
 [facebook]: https://www.facebook.com/tymscar
