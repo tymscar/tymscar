@@ -25,7 +25,6 @@ I'm fascinated with everything science related so if you want to geek out, get i
 - Site: [tymscar.com][site]
 - E-mail: oscar@tymscar.com
 
-### 📚 Looking for my CV? [Get it here!](https://drive.google.com/file/d/1zkEZ4jAZDNCTz-Rs16S2e5TvjCLPR5-W/view)
 
 
 
