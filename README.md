@@ -24,6 +24,7 @@ I'm fascinated with everything science related so if you want to geek out, get i
 - LinkedIn: [tymscar][linkedin]
 - Site: [tymscar.com][site]
 - E-mail: oscar@tymscar.com
+- Mastodon: <a rel="me" href="https://fosstodon.org/@Tymscar">@tymscar</a>
 
 
 
@@ -36,6 +37,7 @@ I'm fascinated with everything science related so if you want to geek out, get i
 [facebook]: https://www.facebook.com/tymscar
 [linkedin]: https://www.linkedin.com/in/tymscar/
 [site]: https://tymscar.com
+
 
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4oOTUQqQ3YhXY9R6AG-x1A?style=social)
