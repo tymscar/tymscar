@@ -21,7 +21,7 @@ My fascination extends to all things science-related. If you share a similar int
 - LinkedIn: [tymscar][linkedin]
 - Site: [tymscar.com][site]
 - E-mail: oscar@tymscar.com
-- Mastodon: <a rel="me" href="https://mast.tymscar.com/@tymscar">Mastodon</a>
+- Mastodon: <a rel="me" href="https://fosstodon.org/@Tymscar">Mastodon</a>
 
 
 
